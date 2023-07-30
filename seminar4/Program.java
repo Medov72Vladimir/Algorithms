@@ -1,4 +1,3 @@
-package Algorithms.seminar4;
 
 public class Program {
 
